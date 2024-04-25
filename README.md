@@ -4,11 +4,11 @@ This repo contains a Time Series Decomposition and Analysis on the Forza User da
 Data available at : https://steamdb.info/charts/
 
 
-- A time-series data is a series of data points or observations recorded at different or regular time intervals. In general, a time series is a sequence of data points taken at equally spaced time intervals. The frequency of recorded data points may be hourly, daily, weekly, monthly, quarterly or annually.
-- Time-Series Forecasting is the process of using a statistical model to predict future values of a time-series based on past results.
+A #time-series data# is a series of data points or observations recorded at different or regular time intervals. In general, a time series is a sequence of data points taken at equally spaced time intervals. The frequency of recorded data points may be hourly, daily, weekly, monthly, quarterly or annually.
 
-- Components of a Time-Series:
+Time-Series Forecasting is the process of using a statistical model to predict future values of a time-series based on past results.
 
+### Components of a Time-Series:
   
 1. Trend - The trend shows a general direction of the time series data over a long period of time. A trend can be increasing(upward), decreasing(downward), or horizontal(stationary).
 2. Seasonality - The seasonality component exhibits a trend that repeats with respect to timing, direction, and magnitude. Some examples include an increase in water consumption in summer due to hot weather conditions.
