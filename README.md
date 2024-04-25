@@ -3,8 +3,7 @@ This repo contains a Time Series Decomposition and Analysis on the Forza User da
 
 Data available at : https://steamdb.info/charts/
 
-
-A # time-series data is a series of data points or observations recorded at different or regular time intervals. In general, a time series is a sequence of data points taken at equally spaced time intervals. The frequency of recorded data points may be hourly, daily, weekly, monthly, quarterly or annually.
+A time-series data is a series of data points or observations recorded at different or regular time intervals. In general, a time series is a sequence of data points taken at equally spaced time intervals. The frequency of recorded data points may be hourly, daily, weekly, monthly, quarterly or annually.
 
 Time-Series Forecasting is the process of using a statistical model to predict future values of a time-series based on past results.
 
